@@ -9,7 +9,7 @@ name: Course in Open-source Computational Fluid Dynamics
 author: Jakob Hærvig
 
 # Short bio or description (displayed in the header)
-description: Course in Open-source Computational Fluid Dynamics
+description: A PhD course in OpenFOAM software
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
 avatar: /images/reverie.png
@@ -21,14 +21,14 @@ avatar: /images/reverie.png
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: jah@energy.aau.dk
+  email:
   facebook:
   flickr:
-  github: https://github.com/open-source-cfd-course/open-source-cfd-course.github.io
+  github: https://github.com/open-source-cfd-course/
   instagram:
   linkedin: 
   pinterest:
-  rss: rss
+  rss:
   twitter: 
   stackoverflow: 
   youtube: # channel/<your_long_string> or user/<user-name>
@@ -99,4 +99,3 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-
