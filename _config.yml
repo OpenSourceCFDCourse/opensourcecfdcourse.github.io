@@ -9,10 +9,10 @@ name: Course in Open-source Computational Fluid Dynamics
 author: Jakob Hærvig
 
 # Short bio or description (displayed in the header)
-description: A PhD course in OpenFOAM software
+description: 
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: /images/reverie.png
+avatar: /images/logo.png
 
 #
 # Flags below are optional
