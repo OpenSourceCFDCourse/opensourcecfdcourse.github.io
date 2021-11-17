@@ -4,9 +4,8 @@ permalink: /registration/
 title: Registration
 ---
 
-## Registration
-
 [Fundamentals course (20-21 June 2022)]()
+
 [Advanced course (22-24 June 2020)]()
 
 ## Prerequisites for attending the courses
