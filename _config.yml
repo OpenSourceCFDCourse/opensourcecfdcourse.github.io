@@ -12,7 +12,7 @@ author: Jakob Hærvig
 description: 
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: 
+avatar: /images/logo.png
 
 #
 # Flags below are optional
@@ -55,7 +55,7 @@ enforce_ssl: http://www.opensourcecfdcourse.dk
 # (http://yourusername.github.io/repository-name)
 # and NOT your User repository (http://yourusername.github.io)
 # then add in the baseurl here, like this: "/repository-name"
-baseurl: "/"
+baseurl: "/basic-information"
 
 #
 # !! You don't need to change any of the configuration flags below !!
