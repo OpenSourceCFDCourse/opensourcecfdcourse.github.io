@@ -26,4 +26,5 @@ We expect you to have basic knowledge of how to navigate using the terminal befo
 - Part 2 (advanced course): DKK 7500
 
 **Waiting list**
+
 We get a lot of requests from people who want to join our course. We have a maximum of 20 seats in order for the participants to gain the most of our course. If the course is full, you are most welcome to write us an email and we will put you on waiting list.
