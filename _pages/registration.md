@@ -15,7 +15,7 @@ We expect you to have basic knowledge of how to navigate using the terminal befo
 ## Price
 
 **PhD students at Danish universities and people employed at Danish universities**
-- Registration is free (Note: We prefer PhD students as attendants. )
+- Registration is free (Note: We prioritise PhD students if the course is full)
 
 **PhD students at foreign universities and people employed at foreign universities**
 - Part 1 (fundamental course): DKK 5000
