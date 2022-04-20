@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Course lecturers
-permalink: /course-lectures/
+permalink: /course-lecturers/
 ---
 
 ### Johan Rønby
