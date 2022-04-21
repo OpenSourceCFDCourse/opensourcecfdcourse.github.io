@@ -4,10 +4,13 @@ permalink: /venue/
 title: Venue
 ---
 
-In 2022 the course will be held at Aalborg University at the Aalborg Campus.
-
-The exact adress will be updated here at later point
-
+In 2022 the courses will be given at Aalborg University:
+```
+Department of Energy (AAU Energy)
+Pontoppidanstraede 105, Room 4.127
+9220-Aalborg East
+Denmark
+```
 ## Accomodation
 
 There are several hotels nearby. You can choose to stay at the campus area or in the city centre where a bus leaves frequently to campus area. Is takes approx 15 min to get from city centre to campus area
