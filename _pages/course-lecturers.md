@@ -14,6 +14,3 @@ I have worked with OpenFOAM® actively since 2013 and supervise approximately 15
 
 ### Niels Linnemann Nielsen (2022)
 To be updated
-
-### Kristian Christoffersen (2021)
-To be updated
