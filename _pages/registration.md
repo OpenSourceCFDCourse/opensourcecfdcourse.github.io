@@ -8,10 +8,6 @@ title: Registration
 
 [Advanced course (22-24 June 2022)](https://phd.moodle.aau.dk/course/view.php?id=1897)
 
-## Prerequisites for attending the courses
-
-We expect you to have basic knowledge of how to navigate using the terminal before attending the course. We will prior to the course hand out exercises for you to complete to get familiar with the terminal.
-
 ## Price
 
 **PhD students at Danish universities and people employed at Danish universities**
