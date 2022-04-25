@@ -1,9 +1,8 @@
 ---
 layout: page
 title: Prerequisites
-permalink: /prerequisites
+permalink: /prerequisites/
 ---
-## Prerequisites
 
 Participants should have basic knowledge of how to navigate using a Linux terminal before attending the course. We will hand out exercises for you to complete prior to the course to familiarize yourself with it. This is not mandatory but strongly encouraged.
 
