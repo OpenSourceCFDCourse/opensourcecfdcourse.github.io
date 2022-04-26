@@ -4,8 +4,15 @@ permalink: /venue/
 title: Venue
 ---
 
-The course venue is [AAU Energy, Pontoppidanstraede 105 (room 4.127), 9220-Aalborg East, AAU Energy, Denmark](https://www.google.com/maps/@57.0161838,9.9741514,429m/data=!3m1!1e3).
+The course venue is:
 
+Department of Energy,  
+Pontoppidanstraede 105 (room 4.127),  
+9220-Aalborg East, Denmark  
+(view on [Google Maps](https://www.google.com/maps/@57.0161838,9.9741514,429m/data=!3m1!1e3))
+
+
+## Detailed campus map
 ![](../images/AAU_venue.png)
 
 ## Suggestions for accomodation
