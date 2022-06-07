@@ -13,4 +13,7 @@ I have worked with OpenFOAM® actively since 2013 and supervise approximately 15
 ## Industrial guest lecturers
 
 ### Niels Linnemann Nielsen (2022)
-To be updated
+Started working with OpenFOAM 1.4.1 in my master thesis. Since I've always worked in industry being an expert in simulations and HPC. Primarily focusing on rotating machinery, turbulence, multiphase, CHT and optimisation workflows. Coupling CAD and simulations via optimisation is one of my main areas of interest.
+It provides the designer with unique insight into cause and effect of design changes.
+My focus in all this has always been open source as to not be limited by licenses in my daily work.
+You can see more of what i have made public at [linncon.com](https://linncon.com) and [github.com/nelinnemann/of-cases](https://github.com/nelinnemann/of-cases).
