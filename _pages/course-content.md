@@ -6,10 +6,10 @@ permalink: /course-content/
 
 The course is divided into two parts:
 
-* Fundamentals (day 1-2) is aimed at users new to OpenFOAM and covers OpenFOAM basics. 
+* Fundamentals (day 1-2) is aimed at users new to OpenFOAM and covers OpenFOAM basics and good practices. 
 * Advanced (day 3-5) covers more advanced topics and is aimed at users already familiar with OpenFOAM.
 
-The two parts are scheduled in the same week making participation in both parts possible. Every day starts at 9:00 and ends at 16:30 with lunch break 12:00-13:00.
+The two parts are scheduled in the same week making participation in both parts possible. Every day starts at 9:00 and ends at 16:30 with lunch break 12:00-13:00. Also, we invite you to join us for pizzas on day 1 and day 3 between 17:00-19:00.  
 
 ## Fundamentals part
 ### Day 1 (fundamental)
