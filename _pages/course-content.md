@@ -12,7 +12,7 @@ The course is divided into two parts:
 The two parts are scheduled in the same week making participation in both parts possible. Every day the programme is from 9:00-16:30 with a lunch break 12:00-13:00. Also, we invite you to join us for pizza nights on day 1 and day 3 between 17:00-19:00.  
 
 ## Fundamentals part
-### Day 1 (fundamental)
+### Day 1 (fundamentals)
 A walk through a simulation case from setting it up to analysing the results. Topics include:
 
 - OpenFOAM versions and installing OpenFOAM
@@ -22,7 +22,7 @@ A walk through a simulation case from setting it up to analysing the results. To
 - Diagnosing simulation during runtime
 - Data visualisation with Paraview
 
-### Day 2 (fundamental)
+### Day 2 (fundamentals)
 We dig deeper into the setup and analysis of simulation cases. Topics include:
 
 - Basic meshing workflow using snappyHexMesh
@@ -32,7 +32,6 @@ We dig deeper into the setup and analysis of simulation cases. Topics include:
 - Sampling and post-processing with functionObjects
 
 ## Advanced part
-
 ### Day 1 (advanced)
 We look at efficient workflows in OpenFOAM and code customisation. Topics include:
 
