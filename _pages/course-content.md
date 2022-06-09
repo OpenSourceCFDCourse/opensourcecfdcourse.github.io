@@ -35,7 +35,6 @@ We dig deeper into the setup and analysis of simulation cases. Topics include:
 ### Day 1 (advanced)
 We look at efficient workflows in OpenFOAM and code customisation. Topics include:
 
-- Parametric studies in OpenFOAM using Python
 - Using Paraview efficiently
 - Introduction to C++ programming in OpenFOAM
 - Writing a new solver
@@ -43,10 +42,11 @@ We look at efficient workflows in OpenFOAM and code customisation. Topics includ
 ### Day 2 (advanced)
 We look at how to use Python with an external optimisation routine that we will write in Python. This will be in an industrial context. Topics include:
 
+- Parametric studies in OpenFOAM using Python
 - Optimise geometries with OpenFOAM and Python in an industrial context
 
 ### Day 3 (advanced)
-We take a deeper look at the OpenFOAM source code. We will write out own functionObject and boundary condition. Topics include:
+We take a deeper look at the OpenFOAM source code. Topics include:
 
 - The OpenFOAM code base and its documentation
 - Writing a new boundary condition
