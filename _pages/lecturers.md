@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Course lecturers
-permalink: /course-lecturers/
+permalink: /lecturers/
 ---
 
 ### Johan Rønby, Roskilde University (RUC)

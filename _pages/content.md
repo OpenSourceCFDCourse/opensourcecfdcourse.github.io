@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Course content
-permalink: /course-content/
+permalink: /content
 ---
 
 The course is divided into two parts:
