@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Course content
 permalink: /content
+title: 
 ---
 
 The course is divided into two parts:

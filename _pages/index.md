@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Basic information
+title: 
 permalink: /
 ---
 ## Why learn CFD?
