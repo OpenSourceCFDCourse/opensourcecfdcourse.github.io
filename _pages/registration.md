@@ -4,9 +4,9 @@ permalink: /registration/
 title:
 ---
 
-[Fundamentals course (20-21 June 2022)](https://phd.moodle.aau.dk/course/view.php?id=1896)
+[Fundamentals course (19-20 June 2023)]()
 
-[Advanced course (22-24 June 2022)](https://phd.moodle.aau.dk/course/view.php?id=1897)
+[Advanced course (21-23 June 2023)]()
 
 ## Price
 
