@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /registration/
 title:
+permalink: /registration/
 ---
 
 [Fundamentals course (19-20 June 2023)]()

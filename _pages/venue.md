@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /venue/
 title: 
+permalink: /venue/
 ---
 
 To be announced

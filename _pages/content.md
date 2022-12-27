@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /content
 title: 
+permalink: /content
 ---
 
 The course is divided into two parts:

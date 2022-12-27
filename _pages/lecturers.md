@@ -1,7 +1,7 @@
 ---
 layout: page
-permalink: /lecturers/
 title: 
+permalink: /lecturers/
 ---
 
 ### Johan Rønby, Roskilde University (RUC)
