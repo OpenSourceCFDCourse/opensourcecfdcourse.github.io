@@ -4,6 +4,8 @@ title:
 permalink: /registration/
 ---
 
+The two links below will become active when registration opens for the 2023 courses.
+
 [Fundamentals course (19-20 June 2023)]()
 
 [Advanced course (21-23 June 2023)]()
