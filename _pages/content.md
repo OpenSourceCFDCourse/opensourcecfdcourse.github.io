@@ -11,7 +11,7 @@ The course is divided into two parts:
 
 The two parts are scheduled in the same week making participation in both parts possible. Every day the programme is from 9:00-16:30 with a lunch break 12:00-13:00. Also, we invite you to join us for pizza nights on Monday and Wednesday between 17:00-19:00.  
 
-## Fundamentals part
+## Fundamentals (Part I)
 ### Day 1 (fundamentals)
 A walk through a simulation case from setting it up to analysing the results. Topics include:
 
@@ -31,7 +31,7 @@ We dig deeper into the setup and analysis of simulation cases. Topics include:
 - Mapping of fields between meshes
 - Sampling and post-processing with functionObjects
 
-## Advanced part
+## Advanced (Part II)
 ### Day 1 (advanced)
 We look at efficient workflows in OpenFOAM and code customisation. Topics include:
 
@@ -51,3 +51,5 @@ We take a deeper look at the OpenFOAM source code. Topics include:
 - The OpenFOAM code base and its documentation
 - Writing a new boundary condition
 - Writing a new function object
+
+The progams may be subject to minor changes.
