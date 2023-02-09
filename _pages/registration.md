@@ -1,9 +1,8 @@
 ---
 layout: page
-title:
+title: Registration
 permalink: /registration/
 ---
-
 ## Price
 
 **PhD students at Danish universities and people employed at Danish universities**
