@@ -10,6 +10,6 @@ Interaction between fluid and a human-made structure or device is design critica
 
 This course is an introduction to CFD using OpenFOAM which is the most widely used open source toolkit for CFD. The fact that OpenFOAM is open source makes it highly versatile allowing you to modify any aspect of the code to his/her needs and set up fully automated workflows. While large scale simulations with commercial CFD software can be extremely expensive due to license fees, OpenFOAM® can be run on massively parallel HPC’s at no additional cost.
 
-<img src="/images/splash.png" width="600">
+<img src="/images/splash.png"  width="600">
 
 OPENFOAM® is a registered trade mark of OpenCFD Limited, producer and distributor of the OpenFOAM software via www.openfoam.com.
