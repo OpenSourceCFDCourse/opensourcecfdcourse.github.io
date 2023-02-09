@@ -4,16 +4,22 @@ title:
 permalink: /venue/
 ---
 
-Rum 27.1-089, Building 27<br>
+## Venue
+
 Roskilde University<br>
 Universitetsvej 1<br>
 4000 Roskilde<br>
 Denmark<br>
+Building 27, Room 27.1-089<br>
+<br>
+Map: https://goo.gl/maps/6Ww73eRGgSJ2dL7i9<br>
+<br>
+NOTE: It is not possible to participate online in this course<br>
+<br>
+## Directions and parking:
 
-## Detailed map of course venue
-
-To be announced
-
+https://ruc.dk/en/directions-roskilde-university <br>
+<br>
 ## Suggestions for accomodation
 
 To be announced
