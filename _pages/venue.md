@@ -14,7 +14,7 @@ Map: [https://goo.gl/maps/6Ww73eRGgSJ2dL7i9](https://goo.gl/maps/6Ww73eRGgSJ2dL7
 <br>
 NOTE: It is not possible to participate online in this course<br>
 <br>
-## Directions and parking:
+## Directions and parking
 
 [https://ruc.dk/en/directions-roskilde-university](https://ruc.dk/en/directions-roskilde-university)<br>
 <br>
