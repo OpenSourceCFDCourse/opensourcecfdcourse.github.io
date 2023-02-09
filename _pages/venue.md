@@ -1,10 +1,8 @@
 ---
 layout: page
-title: 
+title: Venue
 permalink: /venue/
 ---
-
-## Venue
 
 Roskilde University<br>
 Universitetsvej 1<br>
