@@ -26,9 +26,9 @@ There are hotels in Roskilde from where it takes ~15 min. by train + walk:
 
 The following lists different options:
 
-- [Zleep hotel](https://goo.gl/maps/PjwPduXZAtnyVBtA8) (you can get 15% off their FlexPrice if you use the promotion code: PROCOURSE15)
+- [Zleep hotel](https://goo.gl/maps/PjwPduXZAtnyVBtA8) (you can get 15% off their FlexPrice with promotion code: PROCOURSE15)
 
-- [Danhostel](https://roskildedanhostel.dk/en/) in Roskilde (no promotion code):
+- [Danhostel](https://roskildedanhostel.dk/en/) in Roskilde (no promotion code)
 
 
 Also, there are tons of hotels near the main station in Copenhagen from where the train + walk is around 30 min:
