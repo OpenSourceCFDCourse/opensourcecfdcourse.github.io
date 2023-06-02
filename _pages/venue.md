@@ -8,7 +8,7 @@ Roskilde University<br>
 Universitetsvej 1<br>
 4000 Roskilde<br>
 Denmark<br>
-Building 27, Room 27.1-089<br>
+Building 27, Room 27.2-064<br>
 <br>
 Map: [https://goo.gl/maps/6Ww73eRGgSJ2dL7i9](https://goo.gl/maps/6Ww73eRGgSJ2dL7i9)<br>
 <br>
