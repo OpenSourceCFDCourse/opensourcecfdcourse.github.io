@@ -9,22 +9,15 @@ permalink: /registration/
 - Registration is free
 
 **PhD students at foreign universities and people employed at foreign universities**
-- Part 1 (fundamental course): DKK 5000
-- Part 2 (advanced course): DKK 7500
+- DKK 12500
 
 **Company and private attendees**
-- Part 1 (fundamental course): DKK 5000
-- Part 2 (advanced course): DKK 7500
+- DKK 12500
 
 ## Registration
 
-Please sign up by filling the forms here:
-
-[Fundamentals course (19-20 June 2023)](https://forms.gle/L3VHCYKZ1U6KeqES6)
-
-[Advanced course (21-23 June 2023)](https://forms.gle/FFnLx5NYwjSM45RZ7)
-
-Note that the course requires physical participation.
+Register your interest using the link below. We will let you know by e-mail when registration opens officially:
+[Register your interest here](https://docs.google.com/forms/d/e/1FAIpQLScZpZ9m_VNLP3HqUQnXM4rKakbKUXJRpTYPaZnP6H3pT_Dptw/viewform?vc=0&c=0&w=1&flr=0)
 
 ## Confirmation of registration
 

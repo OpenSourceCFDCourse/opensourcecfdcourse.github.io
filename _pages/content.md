@@ -4,15 +4,9 @@ title:
 permalink: /content
 ---
 
-The course is divided into two parts:
+The course is a 5-day course aimed at users new to OpenFOAM and covers OpenFOAM basics and good practices.Every day the programme is from 9:00-16:30 with a lunch break 12:00-13:00. Also, we invite you to join us for pizza nights on Monday and Wednesday between 18:30-21:30.  
 
-* Fundamentals (day 1-2) is aimed at users new to OpenFOAM and covers OpenFOAM basics and good practices. 
-* Advanced (day 3-5) covers more advanced topics and is aimed at users already familiar with OpenFOAM.
-
-The two parts are scheduled in the same week making participation in both parts possible. Every day the programme is from 9:00-16:30 with a lunch break 12:00-13:00. Also, we invite you to join us for pizza nights on Monday and Wednesday between 18:30-21:30.  
-
-## Fundamentals (Part I)
-### Day 1 (fundamentals)
+### Day 1
 A walk through a simulation case from setting it up to analysing the results. Topics include:
 
 - OpenFOAM versions and installing OpenFOAM
@@ -22,7 +16,7 @@ A walk through a simulation case from setting it up to analysing the results. To
 - Diagnosing simulation during runtime
 - Data visualisation with Paraview
 
-### Day 2 (fundamentals)
+### Day 2
 We dig deeper into the setup and analysis of simulation cases. Topics include:
 
 - Basic meshing workflow using snappyHexMesh
@@ -31,21 +25,20 @@ We dig deeper into the setup and analysis of simulation cases. Topics include:
 - Mapping of fields between meshes
 - Sampling and post-processing with functionObjects
 
-## Advanced (Part II)
-### Day 1 (advanced)
+### Day 3
+We look at how to use Python with an external optimisation routine that we will write in Python. This will be in an industrial context. Topics include:
+
+- Parametric studies in OpenFOAM using Python
+- Optimise geometries with OpenFOAM and Python in an industrial context
+
+### Day 4
 We look at efficient workflows in OpenFOAM and code customisation. Topics include:
 
 - Using Paraview efficiently
 - Introduction to C++ programming in OpenFOAM
 - Writing a new solver
 
-### Day 2 (advanced)
-We look at how to use Python with an external optimisation routine that we will write in Python. This will be in an industrial context. Topics include:
-
-- Parametric studies in OpenFOAM using Python
-- Optimise geometries with OpenFOAM and Python in an industrial context
-
-### Day 3 (advanced)
+### Day 5
 We take a deeper look at the OpenFOAM source code. Topics include:
 
 - The OpenFOAM code base and its documentation
