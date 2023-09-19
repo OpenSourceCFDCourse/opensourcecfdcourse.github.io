@@ -17,6 +17,7 @@ permalink: /registration/
 ## Registration
 
 Register your interest using the link below. We will let you know by e-mail when registration opens officially:
+
 [Register your interest here](https://docs.google.com/forms/d/e/1FAIpQLScZpZ9m_VNLP3HqUQnXM4rKakbKUXJRpTYPaZnP6H3pT_Dptw/viewform?vc=0&c=0&w=1&flr=0)
 
 ## Confirmation of registration
