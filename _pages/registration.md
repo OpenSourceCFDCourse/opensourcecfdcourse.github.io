@@ -3,6 +3,13 @@ layout: page
 title: Registration
 permalink: /registration/
 ---
+
+## Dates
+- The course is scheduled 10-14 June, 2024
+
+## Passing the course
+- To pass the course and get a diploma you have to participate and hand a in small miniproject after the course.
+
 ## Price
 
 **PhD students at Danish universities and people employed at Danish universities**

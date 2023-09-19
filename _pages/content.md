@@ -4,7 +4,7 @@ title:
 permalink: /content
 ---
 
-The course is a 5-day course aimed at users new to OpenFOAM and covers OpenFOAM basics and good practices.Every day the programme is from 9:00-16:30 with a lunch break 12:00-13:00. Also, we invite you to join us for pizza nights on Monday and Wednesday between 18:30-21:30.  
+The course is a 5-day course aimed at users new to OpenFOAM and covers OpenFOAM basics and good practices. Every day the programme is from 9:00-16:30 with a lunch break 12:00-13:00. Also, we invite you to join us for pizza nights on Monday and Wednesday between 18:30-21:30.
 
 ### Day 1
 A walk through a simulation case from setting it up to analysing the results. Topics include:
