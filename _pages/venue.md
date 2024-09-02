@@ -4,7 +4,9 @@ title: Venue
 permalink: /venue/
 ---
 
-Aalborg University<br>
+More information follows.
+
+<!-- Aalborg University<br>
 Pontoppidanstræde 105<br>
 9220 Aalborg-East<br>
 Denmark<br>
@@ -12,4 +14,4 @@ Denmark<br>
 Map: [https://maps.app.goo.gl/mL9mXxuj2EJgAeJU8](https://maps.app.goo.gl/mL9mXxuj2EJgAeJU8)<br>
 <br>
 NOTE: It is not possible to participate online in this course<br>
-<br>
+<br> -->
