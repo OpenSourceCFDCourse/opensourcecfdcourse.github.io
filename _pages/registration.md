@@ -5,7 +5,7 @@ permalink: /registration/
 ---
 
 ## Dates
-- The course is scheduled 10-14 June, 2024
+- The course is scheduled in June 2025. More information follows.
 
 ## Passing the course
 - To pass the course and get a diploma you have to participate and hand a in small miniproject after the course.
@@ -25,7 +25,7 @@ permalink: /registration/
 
 Register your interest using the link below. We will let you know by e-mail when registration opens officially:
 
-[Register here](https://phd.moodle.aau.dk/course/view.php?id=2325)
+[Register here]()
 
 ## Confirmation of registration
 
