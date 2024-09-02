@@ -26,7 +26,7 @@ You can see more of what i have made public at [linncon.com](https://linncon.com
 
 ## Previous guest lecturers 
 
-### Niels Linnemann Nielsen (2022, 2023)
+### Niels Linnemann Nielsen (2022, 2023, 2024)
 See above.
 
 ### Kristian Christoffersen (2021)
