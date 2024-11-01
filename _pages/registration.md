@@ -8,7 +8,7 @@ permalink: /registration/
 - The course will take place 09:00-16:30 on 16-20 June 2025 at Roskilde University, Universitetsvej 1, 4000 Roskilde, Denmark. 
 
 ## Passing the course
-- To pass the course and get a diploma you must 1) install OpenFOAM using our instructions before the course, 2) participate actively during the course and 3) hand in and get approved a miniproject after the course.
+- To pass the course and get a diploma you must 1) install and test OpenFOAM using our instructions before the course, 2) participate actively during the course and 3) hand in and get approved a miniproject after the course.
 
 ## Price
 
