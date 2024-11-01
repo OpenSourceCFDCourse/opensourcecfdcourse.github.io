@@ -7,7 +7,7 @@ permalink: /lecturers/
 The two courses are co-organised by Aalborg University and Roskilde University.
 
 ### Johan Rønby, Roskilde University (RUC)
-I have 11 years of experience as a user and developer of OpenFOAM® technology. I have specialised in numerical methods for interfacial flows, ocean wave simulation and fluid-structure interaction. I am member of the OpenFOAM® Technical Committee for Marine Applications and contribute actively to OpenFOAM at [develop.openfoam.com](https://develop.openfoam.com). For more information about my work visit [roenby.com](https://www.roenby.com).
+I have 13 years of experience as a user and developer of OpenFOAM® technology. I have specialised in numerical methods for interfacial flows, ocean wave simulation and fluid-structure interaction. I am member of the OpenFOAM® Technical Committee for Marine Applications and contribute actively to OpenFOAM at [develop.openfoam.com](https://develop.openfoam.com). For more information about my work visit [roenby.com](https://www.roenby.com).
 
 <img src="/images/270px-Member_photo_Johan2.png"  height="200">
 
