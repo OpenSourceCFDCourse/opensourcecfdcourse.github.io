@@ -9,7 +9,7 @@ Universitetsvej 1<br>
 4000 Roskilde<br>
 Denmark<br>
 Building and room: TBA<br>
-Map [Map](https://maps.app.goo.gl/91fHiU3JNgc6ixp5A)<br>
+[Google Map](https://maps.app.goo.gl/91fHiU3JNgc6ixp5A)<br>
 <br>
 <br>
 NOTE: It is not possible to participate online in this course<br>
