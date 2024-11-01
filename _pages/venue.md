@@ -11,6 +11,8 @@ Denmark<br>
 <br>
 Map: [https://maps.app.goo.gl/91fHiU3JNgc6ixp5A](https://maps.app.goo.gl/91fHiU3JNgc6ixp5A)<br>
 <br>
+Building and room: TBA
+<br>
 NOTE: It is not possible to participate online in this course<br>
 <br>
 
