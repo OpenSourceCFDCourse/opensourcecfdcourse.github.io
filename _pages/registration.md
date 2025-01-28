@@ -26,12 +26,12 @@ To pass the course and get a diploma you must:
 - DKK 12500 excl VAT.
 
 ## Registration
-You can register for the course [here](https://forms.gle/afbugCZFpEZD6eBYA).
+You can register for the course [here](https://forms.gle/afbugCZFpEZD6eBYA). **Deadline** for registration is 1 May. Please note that the course is only held if a minimum of 5 participants has signed up by the deadline.
 <!-- You can pre-register to the course [here](https://forms.gle/afbugCZFpEZD6eBYA). Note that pre-registration does not guarantee a seat at the course but enables you to sign up immediately when registration opens.  -->
 
 ## Confirmation of registration
 
-We have a maximum of 20 seats in order for the participants to gain the most of our course. The seats are filled on a first come, first-served basis. We will send you an e-mail asking you to confirm your registration. After we have received your confirmation e-mail, we will send you a final confirmation e-mail. If you do not confirm within one week, your registration will be removed.
+We have a maximum of 20 seats in order for the participants to gain the most of our course. The seats are filled on a first come, first-served basis. Shortly after the deadline you will be asked to confirm your registration. If you do not confirm within one week, your registration will be removed. After we have received your confirmation e-mail, we will send you a final confirmation e-mail.
 
 ## Cancelling registration
 
