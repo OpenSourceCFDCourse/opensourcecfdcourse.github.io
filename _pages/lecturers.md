@@ -12,9 +12,9 @@ I have 13 years of experience as a user and developer of OpenFOAM® technology. 
 <img src="/images/270px-Member_photo_Johan2.png"  height="200">
 
 ### Jakob Hærvig, Aalborg University (AAU)
-I have worked with OpenFOAM® actively since 2013 and supervise approximately 15 students per year on master level in OpenFOAM related projects. In my own research I focus on numerical simulations of particle-laden flows involving both adhesive and non-adhesive particles as well as heat transfer applications. I am a board member of the Danish Society for Industrial Fluid Dynamics (DANSIS), which helps to coordinate national efforts in fluid dynamics. Read more about our research group [here](https://www.energy.aau.dk/research-groups/heat/) and my work at [haervig.com](https://www.haervig.com).
+I have worked with OpenFOAM® actively since 2013 and supervise approximately 15 students per year on master level in OpenFOAM related projects. In my own research I focus on numerical simulations of particle-laden flows involving both adhesive and non-adhesive particles as well as heat transfer applications. Read more about work at [jakobhaervig.com](https://www.jakobhaervig.com).
 
-<img src="/images/Jakob.png"  height="200">
+<img src="https://avatars.githubusercontent.com/u/10219471"  height="200">
 
 ## Industrial guest lecturer
 
