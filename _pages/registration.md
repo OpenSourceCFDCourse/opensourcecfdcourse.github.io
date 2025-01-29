@@ -5,7 +5,7 @@ permalink: /registration/
 ---
 
 ## Dates
-- The course will take place 09:00-16:30 on 16-20 June 2025.
+The course will take place 09:00-16:30 on 16-20 June 2025.
 
 ## Passing the course
 To pass the course and get a diploma you must:
