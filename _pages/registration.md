@@ -26,7 +26,7 @@ To pass the course and get a diploma you must:
 - DKK 12500 excl VAT.
 
 ## Registration
-You can register for the course [here](https://forms.gle/afbugCZFpEZD6eBYA). 
+You can register for the course [here](https://forms.gle/zVc6n7zSJi1Qv4mG7). 
 
 - **Note**: Deadline for registration is 1 May. Please note that the course is only held if a minimum of 5 participants has signed up by the deadline.
 <!-- You can pre-register to the course [here](https://forms.gle/afbugCZFpEZD6eBYA). Note that pre-registration does not guarantee a seat at the course but enables you to sign up immediately when registration opens.  -->
